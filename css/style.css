@@ -1,0 +1,70 @@
+body{
+  background-color:rgb(8, 8, 8);
+  margin: 20px ;
+  padding: 10px;
+  font-family: Verdana;
+  border-left:8px dashed rgb(240, 5, 5);
+  border-bottom: 8px dashed rgb(240, 5, 5);
+  border-radius: 4px; 
+ 
+}
+div{
+  width:100%;
+  
+}
+.introducao{
+  margin:0 auto;
+  align-items:block;
+  
+}
+h1 , h3{
+  text-decoration: underline;
+  text-align:center;
+  background-color:rgb(146, 119, 221);
+  width: 100%;
+  border-radius: 0 15px 15px 0 ;
+  border-left: 5px solid #eeeeee;
+ 
+}
+.subtitulo{
+  text-align:center;
+  font-weight: bold;
+  font-size:20px;
+  color:rgb(170, 105, 105)
+
+}
+img{
+  width:100%;
+  border-s
+     
+}
+.novotitulo{
+  text-align:center;
+  font-weight: bold;
+ 
+}
+ul{ 
+  text-align:center;
+  list-style-type: none;
+  
+}
+.Modo{
+  text-align:center;
+ 
+}
+li{
+  line-height:1.5em;
+  color:rgb(235, 235, 241);
+}
+p{
+  color:rgb(247, 247, 248);
+  text-align: justify;
+}
+@media only screen and (max-width: 600px){
+  img{
+    width:100%;
+  }
+  
+}
+  
+
